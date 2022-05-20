@@ -1,6 +1,5 @@
-### Hi there 👋
+Hello,
 
+I am Arnav Deshpande, completing my B. Tech from VIT University, Vellore
 
-I am Arnav Deshpande, completing my B. Tech from VIT University Vellore
-
-** I am updating my profile here shortly. Stay Tuned. ;)
+### I am updating my profile here shortly. Stay Tuned. ;)

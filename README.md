@@ -2,6 +2,7 @@
 
 ## I'm a Final Year Undergraduate Student at Vellore Institute of Technology - Vellore. :mortar_board:
 
+<!--- 
 <img src="https://i.imgur.com/FBnv5Or.jpg"
      style="float: center"/>
 
@@ -27,3 +28,5 @@
 [twitter]: https://twitter.com/ArnavD_07
 [instagram]: https://www.instagram.com/arnavaa_/
 [linkedin]: https://www.linkedin.com/in/arnav-deshpande-146323189/
+
+-->

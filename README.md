@@ -1,8 +1,12 @@
 <h1>Hello Everyone, I'm Arnav :raised_hands: </h1>
 
-## I'm a Final Year Undergraduate Student at Vellore Institute of Technology - Vellore. :mortar_board:
+Hello There, I'm Arnav Deshpande, currently, a final year student at VIT-Vellore, doing a B.Tech in Computer Science with a specialization in Bioinformatics. I have previously worked on projects using Arduino, C++, Deep Learning, Machine Learning, Django and SQL.
 
+I am interested in research and have been part of many research collaborations, along with individual research projects too. I have also been awarded with the Best Paper Presentation Award at the INEST Conference -2019.
 
+I am amused by the possibilities that can arise by the application of technology in Biology. I am looking forward to solving more industry problems and learning through the process.
+
+To know more about me, please reach out to me, or check my resume, CV, or my Portfolio Website.
 
 
 <strong><h3>My GitHub Stats </h3></strong>

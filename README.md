@@ -1,6 +1,6 @@
 <h1>Hello Everyone, I'm Arnav :raised_hands: </h1>
 
-Hello There, I'm Arnav Deshpande, currently, a final year student at VIT-Vellore, doing a B.Tech in Computer Science with a specialization in Bioinformatics. I have previously worked on projects using Arduino, C++, Deep Learning, Machine Learning, Django, SQL, Tableau, and Excel.
+Hello There, I'm Arnav Deshpande, currently, a final year student at VIT-Vellore, doing a B.Tech in Computer Science with a specialization in Bioinformatics. I have previously worked on projects using Arduino, C++, Deep Learning, Machine Learning, Flask, SQL, Tableau, and Excel.
 
 I am interested in research and have been part of many research collaborations, along with individual research projects too. I have also been awarded the Best Paper Presentation Award at the INEST Conference -2019.
 

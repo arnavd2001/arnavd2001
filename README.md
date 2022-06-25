@@ -6,6 +6,8 @@ I am interested in research and have been part of many research collaborations, 
 
 I am amused by the possibilities that can arise by the application of technology in Biology. I am looking forward to solving more industry problems and learning through the process.
 
+In my free time I like to follow cricket. I play it occasionally too. I am a big fan of music, listening and singing both. I love to play the Piano and the Harmonium too. I am certified in Hindustani Classical Music for playing the Harmonium.
+
 To know more about me, please contact me or check my resume, CV, or Portfolio Website.
 
 

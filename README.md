@@ -29,6 +29,6 @@ To know more about me, please contact me or check my resume, CV, or Portfolio We
 <br>
 <div align="center">
 <img src="https://profile-counter.glitch.me/arnavd2001/count.svg" align="center">
- </div>
- <br>
+</div>
+<br>
  
